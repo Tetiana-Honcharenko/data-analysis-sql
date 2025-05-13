@@ -20,4 +20,4 @@ In diesem Projekt habe ich öffentlich verfügbare Datensätze mit **SQL** in **
 - Erstellung eines einfachen Dashboards
 
 ## 📷 Screenshots
-![]
+![data-analysis-sql](Analyse.jpg)
